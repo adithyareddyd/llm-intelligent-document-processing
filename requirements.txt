@@ -1,0 +1,10 @@
+streamlit
+ollama
+faiss-cpu
+pypdf
+PyMuPDF
+langchain
+langchain-community
+python-dotenv
+numpy
+pandas
