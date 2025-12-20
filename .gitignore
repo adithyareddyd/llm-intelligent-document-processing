@@ -1,5 +1,24 @@
+# environment
 .env
+
+# python
 __pycache__/
 *.pyc
+
+# logs
 logs/
+*.log
+audit.log
+
+# data & runtime storage
+storage/
 data/uploads/
+temp*.pdf
+*.pdf
+
+# vector db / embeddings
+*.faiss
+*.pkl
+
+# OS
+.DS_Store
